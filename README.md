@@ -1,8 +1,8 @@
 # Web-services-App---BMI-calculation-
 
-●	Utilized C#, Swift, API calls, SOAP and RESTful web services.	      
-●	Developed WCF SOAP and RESTful web services in C# that allow users to calculate BMI.
-●	Built an IOS app in Swift that allows users to calculate BMI and displays the BMI information.
+    ●	Utilized C#, Swift, API calls, SOAP and RESTful web services.	      
+    ●	Developed WCF SOAP and RESTful web services in C# that allow users to calculate BMI.
+    ●	Built an IOS app in Swift that allows users to calculate BMI and displays the BMI information.
 
 Video:
 Web service:
