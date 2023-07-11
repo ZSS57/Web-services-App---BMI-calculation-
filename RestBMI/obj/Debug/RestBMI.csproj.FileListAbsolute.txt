@@ -1,0 +1,6 @@
+C:\Users\pengs\source\repos\RestBMI\RestBMI\bin\RestBMI.dll.config
+C:\Users\pengs\source\repos\RestBMI\RestBMI\bin\RestBMI.dll
+C:\Users\pengs\source\repos\RestBMI\RestBMI\bin\RestBMI.pdb
+C:\Users\pengs\source\repos\RestBMI\RestBMI\obj\Debug\RestBMI.csproj.CoreCompileInputs.cache
+C:\Users\pengs\source\repos\RestBMI\RestBMI\obj\Debug\RestBMI.dll
+C:\Users\pengs\source\repos\RestBMI\RestBMI\obj\Debug\RestBMI.pdb

@@ -1,0 +1,6 @@
+C:\Users\pengs\source\repos\SoapBMI\SoapBMI\bin\SoapBMI.dll.config
+C:\Users\pengs\source\repos\SoapBMI\SoapBMI\bin\SoapBMI.dll
+C:\Users\pengs\source\repos\SoapBMI\SoapBMI\bin\SoapBMI.pdb
+C:\Users\pengs\source\repos\SoapBMI\SoapBMI\obj\Debug\SoapBMI.csproj.CoreCompileInputs.cache
+C:\Users\pengs\source\repos\SoapBMI\SoapBMI\obj\Debug\SoapBMI.dll
+C:\Users\pengs\source\repos\SoapBMI\SoapBMI\obj\Debug\SoapBMI.pdb
