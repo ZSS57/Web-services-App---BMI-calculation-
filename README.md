@@ -6,7 +6,7 @@
 
 Video:
 Web service:
-<img src='https://github.com/ZSS57/Web-services-App---BMI-calculation-/blob/main/web%20service%20video.mp4)https://github.com/ZSS57/Web-services-App---BMI-calculation-/blob/main/web%20service%20video.mp4](https://github.com/ZSS57/Web-services-App---BMI-calculation-/blob/main/web%20service%20video.mp4)' title='Web service video' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/Web-services-App---BMI-calculation-/blob/main/web%20service%20video.mp4' title='Web service video' width='' alt='Video Walkthrough' />
 
 App:
 <img src='https://github.com/ZSS57/Web-services-App---BMI-calculation-/blob/main/app%20video.mp4' title='app video' width='' alt='Video Walkthrough' />
